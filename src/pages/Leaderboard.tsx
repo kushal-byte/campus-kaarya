@@ -163,7 +163,7 @@ export default function Leaderboard() {
       <main className="container max-w-5xl mx-auto px-4 pt-12 pb-12">
         <div className="mb-8 text-center space-y-4">
           <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight">
-            Unicamp <span className="text-primary">Leaderboard</span>
+            CAMPUS KAARYA <span className="text-primary">Leaderboard</span>
           </h1>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             Compete in hackathons, attend events, and build your achievements to rise to the top of the campus!

@@ -53,7 +53,7 @@ Keep it humble, grateful, and motivating. Use 1-2 relevant emojis. Length: 150-2
         Authorization: `Bearer ${OPENROUTER_API_KEY}`,
         "Content-Type": "application/json",
         "HTTP-Referer": "https://unicamp.app",
-        "X-Title": "Unicamp",
+        "X-Title": "CAMPUS KAARYA",
       },
       body: JSON.stringify({
         model: "amazon/nova-2-lite-v1:free",

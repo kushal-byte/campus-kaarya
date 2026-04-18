@@ -1,4 +1,4 @@
--- Complete database setup for Unicamp
+-- Complete database setup for CAMPUS KAARYA
 -- Run this in your Supabase SQL Editor
 -- WARNING: This will DROP all existing tables and data!
 
